@@ -1,0 +1,3 @@
+[submodule "CloC_Agent/my-app"]
+	path = CloC_Agent/my-app
+	url = /home/eric/Documents/CloC_Agent/my-app
